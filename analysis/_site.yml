@@ -1,7 +1,7 @@
 name: "OUCRUProj"
 output_dir: ../docs
 navbar:
-  title: "OUCRUProj"
+  title: "Projects at OUCRU"
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,8 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  - text: Lab Notebook
+    href: labbook.html
 output:
   workflowr::wflow_html:
     toc: yes

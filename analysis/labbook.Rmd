@@ -1,0 +1,21 @@
+---
+title: "Lab Notebook"
+author: "Phung Khanh Lam"
+date: "11/26/2020 (update: `r Sys.Date()`)"
+output: 
+  html_document:
+    theme: cerulean
+    toc: yes
+    toc_float: yes
+bibliography: reference.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+
+### 2020-11
+
+#### 26
